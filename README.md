@@ -13,7 +13,7 @@ Feel free to download and use this code! 👌
 ```npm install```
 
 **2.** Run:
-```npm run start:dev ```
+```npm run start ```
 
 **3.** Testing:<br />
 ```http://localhost:3000/qrcode/generate?data=https://github.com/matheusodilon&size=500 ```
